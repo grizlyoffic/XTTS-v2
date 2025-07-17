@@ -1,0 +1,6 @@
+aiogram
+TTS
+pydub
+torch
+numpy
+ffmpeg-python
